@@ -1,4 +1,4 @@
-# Android RecruitmentTest App
+# Android App
 
 **Offline-capable album browsing · Persistent favorites · Adaptive Android UI**
 
@@ -12,7 +12,7 @@
 
 ## App Overview
 
-Android RecruitmentTest App lets users browse album items, view their details, and save favorites for later. It persists downloaded records locally so users can continue browsing after losing connectivity or restarting the app. Built for the leboncoin Android technical assessment, the project demonstrates modular architecture, reactive state management, and adaptive Compose interfaces.
+Android RecruitmentTest App lets users browse album items, view their details, and save favorites for later. It persists downloaded records locally so users can continue browsing after losing connectivity or restarting the app. Built for the Android technical challenge, the project demonstrates modular architecture, reactive state management, and adaptive Compose interfaces.
 
 ## Key Features
 
@@ -100,8 +100,8 @@ Dependency versions are maintained in [`gradle/libs.versions.toml`](gradle/libs.
 1. Clone the repository and enter its directory:
 
    ```bash
-   git clone https://github.com/ycharbel88/leboncoin-android-test.git
-   cd leboncoin-android-test
+   git clone https://github.com/ycharbel88/lbc-android-simple.git
+   cd lbc-android-simple
    chmod +x gradlew
    ```
 
